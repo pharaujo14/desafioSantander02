@@ -1,4 +1,4 @@
-package desafio02;
+package desafioSantander02;
 
 public class BancoApp {
 	public static void main(String[] args) {

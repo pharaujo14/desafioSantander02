@@ -1,4 +1,4 @@
-package desafio02;
+package desafioSantander02;
 
 public class ContaCorrente extends Conta {
 	
