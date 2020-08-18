@@ -2,7 +2,7 @@ package desafioSantander02;
 
 public class BancoApp {
 	public static void main(String[] args) {
-		Cliente cliente01 = new Cliente(01, "Silva", "28.997.644-3", "008.971.432-64");
+		Cliente cliente01 = new Cliente(01, "Silva", "99.999.999-9", "999.999.999-99");
 		System.out.println(cliente01);
 		ContaPoupanca cp1 = new ContaPoupanca(cliente01, 100.0, 0.02);
 		cp1.recolherJuros();
